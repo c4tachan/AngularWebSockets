@@ -16,7 +16,7 @@ export class AppComponent {
   }
 
   private message = {
-    author: 'tutorialedge',
+    author: 'Patrick Tkacik',
     message: 'this is a test message'
   };
 
